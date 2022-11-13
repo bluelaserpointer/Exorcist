@@ -1,0 +1,4 @@
+repository "EXORCIST@handrule@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
